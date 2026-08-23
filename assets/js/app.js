@@ -160,12 +160,12 @@
           '<div class="insights-text">' +
             '<div class="insights-title">' + esc(COPY.home.insights_title) + "</div>" +
             '<div class="insights-headline">' + esc(COPY.home.insights_headline) + "</div>" +
-            '<span class="insights-subtext">' + esc(((COPY.home.insights_subtext_prefix || "") + " " + nextSteps.min + "–" + nextSteps.max + "% " + (COPY.home.insights_subtext_suffix || "")).trim()) + "</span>" +
           "</div>" +
         "</div>" +
         '<div class="focus-card">' +
           '<div class="focus-title">' + esc(COPY.home.focus_areas.title) + "</div>" +
           "<p>" + esc(COPY.home.focus_areas.body) + "</p>" +
+          '<p class="focus-range">' + esc(COPY.home.focus_areas.range_prefix) + " <strong>" + nextSteps.min + "–" + nextSteps.max + "%</strong> " + esc(COPY.home.focus_areas.range_suffix) + "</p>" +
         "</div>" +
       "</div>" +
       '<div class="bubble-field-wrap"><svg id="bubble-field" class="bubble-field"></svg></div>' +

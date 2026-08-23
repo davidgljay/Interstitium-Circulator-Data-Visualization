@@ -9,10 +9,11 @@ home:
   stat_label: "interviews so far"
   insights_title: "Insights"
   insights_headline: "Of circulator conversation generated a followup step that supported interviewees' work"
-  insights_subtext_suffix: ""
   focus_areas:
     title: "Focus areas"
     body: "Interviewees are tagged by the sector they work in — click a bubble to see what people in that area are saying."
+    range_prefix: "Next-step follow-through ranges from"
+    range_suffix: "depending on focus area."
   bubble_caption: "Click a sector to learn more"
   cards:
     key_points:
