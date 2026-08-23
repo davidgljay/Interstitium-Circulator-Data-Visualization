@@ -396,6 +396,12 @@
         '<div class="overlap-subtitle">' + esc(t.overlap_subtitle) + "</div>" +
         '<div class="chord-wrap"><svg id="chord-diagram"></svg></div>' +
         '<div class="overlap-caption">' + esc(t.overlap_caption) + "</div>" +
+        '<div class="who-list">' +
+          '<div class="who-title">' + esc(t.who_we_spoke_to) + "</div>" +
+          '<div class="who-pills">' +
+            tag.participants.map(function (p) { return '<span class="who-pill">' + esc(p.title_org) + "</span>"; }).join("") +
+          "</div>" +
+        "</div>" +
       "</section>" +
       '<div class="blurred-field-bg">' +
         '<div class="blurred-bg-inner"><svg id="bg-bubbles"></svg></div>' +
@@ -429,7 +435,7 @@
       });
     });
 
-    bindViewAllButtons(root, tagName);
+    bindViewAllButtons(root);
   }
 
   function tabBtn(topicKey, label) {
@@ -441,27 +447,16 @@
     var mc = document.getElementById("mobile-column");
     if (!mc) return;
     mc.innerHTML = detailColumn(state.tag, state.mobileTab, COPY.tag_detail);
-    bindViewAllButtons(mc, state.tag);
+    bindViewAllButtons(mc);
   }
-
-  var WHO_PREVIEW_COUNT = 4;
 
   function detailColumn(tagName, topicKey, t) {
     var tag = DATA.tags[tagName];
     var entries = tag[topicKey];
-    var preview = tag.participants.slice(0, WHO_PREVIEW_COUNT);
-    var whoId = "who-" + topicKey;
     return (
       '<div class="detail-column" data-topic="' + topicKey + '">' +
         "<h3>" + esc(t.columns[topicKey]) + "</h3>" +
         '<p class="synthesis">' + esc(tag.summaries[topicKey]) + "</p>" +
-        '<div class="who-list" id="' + whoId + '">' +
-          '<div class="who-title">' + esc(t.who_we_spoke_to) + "</div>" +
-          '<ul>' + preview.map(function (p) { return "<li>" + esc(p.title_org) + "</li>"; }).join("") + "</ul>" +
-          (tag.participants.length > WHO_PREVIEW_COUNT
-            ? '<button class="pill pill--ghost view-all-who">' + esc(t.view_all) + " " + tag.count + "</button>"
-            : "") +
-        "</div>" +
         '<button class="pill pill--ghost view-all-quotes">' + esc(t.view_all) + " " + entries.length + " examples</button>" +
         '<div class="quotes-wrap">' +
           entries.map(function (e) { return '<div class="quote-box">' + esc(e.detail) + '</div>'; }).join("") +
@@ -470,16 +465,7 @@
     );
   }
 
-  function bindViewAllButtons(root, tagName) {
-    Array.prototype.forEach.call(root.querySelectorAll(".view-all-who"), function (btn) {
-      btn.addEventListener("click", function () {
-        var wrap = btn.closest(".who-list");
-        var ul = wrap.querySelector("ul");
-        var tag = DATA.tags[tagName];
-        ul.innerHTML = tag.participants.map(function (p) { return "<li>" + esc(p.title_org) + "</li>"; }).join("");
-        btn.remove();
-      });
-    });
+  function bindViewAllButtons(root) {
     Array.prototype.forEach.call(root.querySelectorAll(".view-all-quotes"), function (btn) {
       btn.addEventListener("click", function () {
         var col = btn.closest(".detail-column");

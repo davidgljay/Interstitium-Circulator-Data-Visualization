@@ -392,19 +392,33 @@ button {
 .quotes-wrap { display: flex; flex-direction: column; gap: 14px; }
 
 .who-list {
-  border: 1px dashed #C9CCDC;
-  border-radius: 8px;
-  padding: 12px 14px;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid #E3E4EE;
 }
 .who-list .who-title {
   font-size: 10px;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: #6B7094;
-  margin-bottom: 6px;
+  margin-bottom: 10px;
 }
-.who-list ul { list-style: none; margin: 0; padding: 0; font-size: 13px; }
-.who-list li { padding: 3px 0; color: var(--navy); }
+.who-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.who-pill {
+  display: inline-flex;
+  align-items: center;
+  border-radius: var(--radius-pill);
+  border: 1px solid #D8D8D8;
+  background: var(--gray);
+  color: var(--navy);
+  padding: 6px 14px;
+  font-size: 13px;
+  font-weight: 500;
+}
 
 .quote-box {
   border: 1px solid #E3E4EE;
