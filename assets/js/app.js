@@ -500,9 +500,9 @@
   };
 
   function drawChordDiagram(svgEl, activeTag) {
-    var size = Math.min(680, Math.max(380, (svgEl.parentElement.clientWidth || 560)));
+    var size = Math.min(440, Math.max(320, (svgEl.parentElement.clientWidth || 440) * 0.55));
     var width = size, height = size;
-    var outerR = Math.min(width, height) * 0.24;
+    var outerR = Math.min(width, height) * 0.34;
     var innerR = outerR - 14;
 
     var activeIdx = TAGS.indexOf(activeTag);
