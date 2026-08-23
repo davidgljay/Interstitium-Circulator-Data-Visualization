@@ -12,8 +12,6 @@ home:
   focus_areas:
     title: "Focus areas"
     body: "Interviewees are tagged by the sector they work in — click a bubble to see what people in that area are saying."
-    range_prefix: "Next-step follow-through ranges from"
-    range_suffix: "depending on focus area."
   bubble_caption: "Click a sector to learn more"
   cards:
     key_points:

@@ -224,12 +224,6 @@ button {
   color: var(--navy);
   line-height: 1.5;
 }
-.focus-card .focus-range {
-  margin-top: 10px;
-  font-size: 13px;
-  color: #4B5170;
-}
-
 .bubble-field-wrap {
   margin: 8px 0;
 }

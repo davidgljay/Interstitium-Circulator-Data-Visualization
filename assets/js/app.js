@@ -165,7 +165,6 @@
         '<div class="focus-card">' +
           '<div class="focus-title">' + esc(COPY.home.focus_areas.title) + "</div>" +
           "<p>" + esc(COPY.home.focus_areas.body) + "</p>" +
-          '<p class="focus-range">' + esc(COPY.home.focus_areas.range_prefix) + " <strong>" + nextSteps.min + "–" + nextSteps.max + "%</strong> " + esc(COPY.home.focus_areas.range_suffix) + "</p>" +
         "</div>" +
       "</div>" +
       '<div class="bubble-field-wrap"><svg id="bubble-field" class="bubble-field"></svg></div>' +
