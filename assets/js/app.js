@@ -46,16 +46,19 @@
     return set;
   }
 
-  function computeSupportPercent() {
-    var all = allParticipantNames();
-    var supported = new Set();
+  function computeNextStepsPercent() {
+    var weightedSum = 0, totalCount = 0, min = Infinity, max = -Infinity;
     TAGS.forEach(function (t) {
-      DATA.tags[t].support_offered.forEach(function (e) { supported.add(e.name); });
+      var tag = DATA.tags[t];
+      weightedSum += tag.count * tag.next_steps_percent;
+      totalCount += tag.count;
+      min = Math.min(min, tag.next_steps_percent);
+      max = Math.max(max, tag.next_steps_percent);
     });
     return {
-      pct: Math.round((supported.size / all.size) * 100),
-      supported: supported.size,
-      total: all.size
+      pct: Math.round(weightedSum / totalCount),
+      min: min,
+      max: max
     };
   }
 
@@ -140,7 +143,7 @@
   // ================= HOME =================
 
   function renderHome(root) {
-    var support = computeSupportPercent();
+    var nextSteps = computeNextStepsPercent();
 
     root.innerHTML =
       '<header class="home-header">' +
@@ -153,11 +156,11 @@
       "</div>" +
       '<div class="insight-focus-row">' +
         '<div class="insights-card">' +
-          '<div class="insights-ring-wrap" id="insights-ring"><span class="insights-ring-pct">' + support.pct + "%</span></div>" +
+          '<div class="insights-ring-wrap" id="insights-ring"><span class="insights-ring-pct">' + nextSteps.pct + "%</span></div>" +
           '<div class="insights-text">' +
             '<div class="insights-title">' + esc(COPY.home.insights_title) + "</div>" +
             '<div class="insights-headline">' + esc(COPY.home.insights_headline) + "</div>" +
-            '<span class="insights-subtext">' + support.supported + " of " + support.total + " — " + esc(COPY.home.insights_subtext_suffix) + "</span>" +
+            '<span class="insights-subtext">' + esc((COPY.home.insights_subtext_prefix + " " + nextSteps.min + "–" + nextSteps.max + "% " + COPY.home.insights_subtext_suffix).trim()) + "</span>" +
           "</div>" +
         "</div>" +
         '<div class="focus-card">' +
@@ -173,7 +176,7 @@
         summaryCard("support_offered", "blue") +
       "</div>";
 
-    drawInsightsRing(document.getElementById("insights-ring"), support.pct, 76);
+    drawInsightsRing(document.getElementById("insights-ring"), nextSteps.pct, 76);
     drawBubbleField(document.getElementById("bubble-field"), true);
 
     Array.prototype.forEach.call(root.querySelectorAll(".summary-card"), function (card) {

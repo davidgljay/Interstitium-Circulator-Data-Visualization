@@ -9,7 +9,8 @@ home:
   stat_label: "interviews so far"
   insights_title: "Insights"
   insights_headline: "circulator conversation generated a followup step that supported participants' work"
-  insights_subtext_suffix: "pending direct follow-up"
+  insights_subtext_prefix: "Range across the 9 focus areas:"
+  insights_subtext_suffix: ""
   focus_areas:
     title: "Focus areas"
     body: "Interviewees are tagged by the areas they work in — click a bubble to see what people in that area are saying."
