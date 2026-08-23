@@ -1,0 +1,1344 @@
+{
+  "tags": {
+    "Ecosystem Building": {
+      "count": 10,
+      "next_steps_percent": 60,
+      "participants": [
+        {
+          "name": "Eva Armor",
+          "title_org": "Executive Director, Seeds of Peace"
+        },
+        {
+          "name": "Eunice Lin Nichols",
+          "title_org": "Co-Executive Director, CoGenerate"
+        },
+        {
+          "name": "Drew Serres",
+          "title_org": "Executive Director, Network Delaware"
+        },
+        {
+          "name": "Edna Ishayik",
+          "title_org": "Consultant; formerly Office of the U.S. Surgeon General (social connection); National Conference on Citizenship / Foundation for Social Connection"
+        },
+        {
+          "name": "Julia Roig",
+          "title_org": "Horizons Project (founder)"
+        },
+        {
+          "name": "Jiva Manske",
+          "title_org": "22nd Century Initiative (22ci)"
+        },
+        {
+          "name": "Joe Bubman",
+          "title_org": "Founder, Urban Rural Action"
+        },
+        {
+          "name": "Ryan Greer",
+          "title_org": "BEDROCK"
+        },
+        {
+          "name": "Maria Perez",
+          "title_org": "Founder, Democracy Rising"
+        },
+        {
+          "name": "Laura Webber",
+          "title_org": "Humanity United"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Eva Armor",
+          "detail": "\"We're losing the bigger floor... micro-pushes against the system\"; sees binary of those for/against elimination-assassination-abduction; without networks she'd be in collapse; wants more spaces for collective grief; \"Where connections exist, it's hard for violence to exist\"; core question: how do you sustain/scale care?"
+        },
+        {
+          "name": "Eunice Lin Nichols",
+          "detail": "CoGenerate focused on how to help young and old come together to do good; \"'Civics' is a partisan word now!!\""
+        },
+        {
+          "name": "Drew Serres",
+          "detail": "Sees his PV-prevention role as base-building rapid response networks (trainers, lawyers, key roles ready); was siloed in Delaware, now reaching to other states, esp. right-wing gerrymandered ones; MN has strong RR infrastructure but is \"very white-led,\" not inclusive enough; asks how to build joy into this work"
+        },
+        {
+          "name": "Edna Ishayik",
+          "detail": "Discussed factors driving PV: information consumption, disengagement, political rhetoric; civic engagement could buffer against radicalizing online influences; philanthropic funding models lack coordination; positive sign: \"bell-to-bell\" school phone bans"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Horizons formed 2022 amid rise of authoritarianism; built PV-backfire curriculum with 22ci and Hardy Merriman's guide; \"accompaniment\" = being available, catalyzing not owning; philanthropy is \"a sick system\"; core networks (OverZero, Horizons, 22ci) keep getting funded/tapped repeatedly — \"the big tent doesn't feel that big\""
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "22ci grew from the global nonviolent movement; launched a training program on making PV backfire after the 2024 assassination attempt; HOPE (with Hardy Merriman, Nadine Block, Scott Nakagawa, Maria Stephan) trains a cross-section of ~16 orgs; \"the work that's most effective is at the local level\"; scenario planning for Oct 2025–Jan 2026 election period"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Runs Uniting for Action Local Hubs, skills-building, and a Conservative Leaders Program (34 leaders launched in Phoenix); theory of change is intergroup contact theory; sees an \"optimal level of coordination\" beyond which there are diminishing returns; forming a Left-of-Center leaders program too"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Founded BEDROCK after a nonprofit listening tour (300 stakeholders) found the field needs more money and less competition; 70 partners in 3 years; merged with PERIL (American University) for research; challenges: competition among orgs even on a single joint funder letter; capacity limited (2.5 staff); hopes funders will fund collectively rather than siloed"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Runs 2-year cohorts of 15 women-of-color civic leaders (elected officials, agitators, bureaucrats) working toward a 50-year manifesto; started after leaving male-dominated democracy-reform think tanks in 2022; measures impact partly by \"4 people have left their husbands\"; goal of 50-state presence (currently 30); dream is a shared land/refuge in New Mexico and funding to spend more time circulating"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Uses \"coral reef\"/edge metaphor — circulators should find and connect \"edge dwellers\" who don't fit dominant frames (between neuroscience and peacebuilding, activists who are also healers); trauma-healing frame is incomplete because \"healedness\" may not exist; doing trauma healing in active-trauma settings can be unwise; her current work is more directed/circumscribed than she'd like"
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Eva Armor",
+          "detail": "Isolation/surveillance makes it hard to be loud; worry about people falling into despair; \"is what I'm doing enough?\""
+        },
+        {
+          "name": "Drew Serres",
+          "detail": "Was very \"heads down\" and siloed in Delaware; MN rapid-response network is not cross-class/cross-race enough"
+        },
+        {
+          "name": "Edna Ishayik",
+          "detail": "Frustration with inefficiency/lack of collaboration within philanthropy funding civic engagement (2016-2020 era)"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Philanthropy concentrates funding/attention on the same few well-networked orgs; hard to \"truly bring people in\""
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "\"Launched quicker than we were ready for\"; feels stuck doing \"small ball\" work relative to the 50-year scale of reconciliation needed"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Wants a narrower, more concrete peer-practitioner community; feels somewhat isolated doing this work solo among org leaders"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Capacity-constrained (2.5 people); competition among field leaders undermines collective funder outreach; not yet in faith, veteran, or business ecosystems"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Funding for 3rd cohort not yet secured; late-stage capitalism/philanthropy constrains the feminist-economy vision she wants to build"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Her role currently has less autonomy/emergence than she wants; structural lack of integration between professionalized and non-professionalized healing/PB work"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Eva Armor",
+          "detail": "Cultivates care among young Israelis/Palestinians, Indians/Pakistanis via Seeds of Peace camps"
+        },
+        {
+          "name": "Drew Serres",
+          "detail": "Organizing/convening base of progressive campaigns and electoral politics across Delaware"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Trainings, curriculum on making PV backfire, crisis accompaniment, convening/weaving"
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "Training program to make PV backfire; connecting social justice, electoral, and mobilization orgs"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Local hubs training \"uniters\"; skills-building for disinformation/community safety; leader-network bridging"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Convening/coordination for 70 partner orgs; trusted-messenger empowerment; state resilience pilot in Michigan"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Convenes cohorts; popular-education annual gathering; Collaborative Governance Learning Lab (funded by Tom Glaisyer)"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Hosted \"edge dweller\" dinners at Boston/Oxford trauma conferences and Cape Town Global Mental Health summit"
+        }
+      ],
+      "summaries": {
+        "key_points": "Interviewees describe ecosystem building as bridging fragmented \"big tents\" — Horizons, 22ci, OverZero, and BEDROCK keep getting funded and tapped while newer entrants struggle to break in — with several experimenting with peer cohorts and circulator-style connective work to close those gaps.",
+        "struggles": "The most common struggle is capacity and funding: small staffs, financial precarity under funding cuts, and competition among peer organizations for the same limited pool of philanthropic dollars.",
+        "support_offered": "Several offer convening, training, or mentorship to other ecosystem actors — from Julia Roig's PV-backfire curriculum and crisis accompaniment to Joe Bubman's local hubs and Maria Perez's leadership cohorts."
+      }
+    },
+    "Government": {
+      "count": 7,
+      "next_steps_percent": 43,
+      "participants": [
+        {
+          "name": "Edna Ishayik",
+          "title_org": "Consultant; formerly Office of the U.S. Surgeon General (social connection); National Conference on Citizenship / Foundation for Social Connection"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "title_org": "Democracy Fund"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "title_org": "Fellow, New America"
+        },
+        {
+          "name": "Peter Quaranto",
+          "title_org": "Alliance for Peacebuilding (AFP)"
+        },
+        {
+          "name": "Bill Hartung",
+          "title_org": "Senior Research Fellow, Quincy Institute for Responsible Statecraft"
+        },
+        {
+          "name": "Joe Evans",
+          "title_org": "Coordinator, Villanova Peacebuilding Project (Center for Peace and Justice Studies / Catholic Relief Services); PhD in Theology, Villanova"
+        },
+        {
+          "name": "James Goen",
+          "title_org": "Formerly U.S. federal government (Deputy Secretary's office / China policy office); now independent — org unclear from public search"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Edna Ishayik",
+          "detail": "Discussed factors driving PV: information consumption, disengagement, political rhetoric; civic engagement could buffer against radicalizing online influences; philanthropic funding models lack coordination; positive sign: \"bell-to-bell\" school phone bans"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "detail": "\"It's not about preventing PV, it's about preventing contagion of PV\"; \"civic safety\" is the new emerging term for PV, driven by ICE/state-sponsored vigilantism; allocated $3-4M to state-level capacity for responding to violence in-the-moment (vigils, interfaith op-eds) plus longer-run participatory democracy work"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "Goal: connect participatory democracy with domestic peacebuilding to prevent/respond to PV, not just absorb it; explores whether citizen assemblies could be a cross-divide PV-prevention methodology; notes clusters of civic-infrastructure innovation in the Pacific NW; \"not a lot of people talking about PV in her space\""
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "3 priorities: widen the language/aperture beyond intra-state armed conflict; renew grassroots mobilization (peacebuilding became too elite/technocratic); articulate transformative alternative futures; interested in a Ghana-style National Peace Architecture model for the US; leads AFP's Future of Peace and Security Coalition (1-5 yr report due end of year)"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Sees younger colleagues (Palestine rights, Sunrise/climate movements) as more intersectional but underpaid/unsupported in the nonprofit world; his role is encourager, not knowledge-holder; \"the trillion-dollar war machine\" persists via troops, drones, and domestic gun violence; belief change requires personal connection, not just data; ideology (American-exceptionalism mythology) must be confronted alongside money"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Career arc: Kosovo (peacekeeping) → Afghanistan → Iraq (combat, undiagnosed PTSD) → Pakistan/Pentagon policy advisor; realized \"the more people we shoot, the more enemies we create\"; took a markedly less aggressive approach as an infantry commander, became one of the most peaceful regions in Afghanistan; rejects binary \"which side are you on\" framing; within Catholic peacebuilding, nonviolence and just-war traditions aren't as far apart as assumed"
+        },
+        {
+          "name": "James Goen",
+          "detail": "Resigned over concern that U.S. is using the military to protect economic interests rather than democratic rule of law, approaching China from fear; sees the need for \"interstitionaries\" in US/China relations despite not being a China or peacebuilding expert; own healing journey (cPTSD, early attachment trauma) reframed as generational healing; discovered Interstitia through Sam Pressler"
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Edna Ishayik",
+          "detail": "Frustration with inefficiency/lack of collaboration within philanthropy funding civic engagement (2016-2020 era)"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "detail": "Uncertainty about what \"success\" looks like for a half-built field"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "PV is not yet a central topic in the participatory-democracy field"
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "DC culture's fight for influence undercuts transformation; institutions not built for risk-taking; tension between building a big tent and confronting harm directly"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Younger organizers lack paid opportunities in the traditional nonprofit sector"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Feels isolated when advising against majority Pentagon opinion (e.g., opposed drone strikes in tribal Pakistan)"
+        },
+        {
+          "name": "James Goen",
+          "detail": "Personal cPTSD and early attachment trauma; ambivalence about next career steps after resigning from government"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Tom Glaisyer",
+          "detail": "Democracy Fund grantmaking for state-level PV response capacity and this circulator experiment"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "Deep network in participatory democracy field (\"knows everyone\")"
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "Convening/steering group work on Future of Peace and Security"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Mentorship/encouragement to younger anti-militarism organizers"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "First-hand military/policy perspective informing peacebuilding training"
+        }
+      ],
+      "summaries": {
+        "key_points": "Government-connected interviewees frame political violence prevention as an emerging \"civic safety\" agenda, spanning federal funding decisions, participatory-democracy pilots, and firsthand military/foreign-policy experience that shapes how they think about de-escalation.",
+        "struggles": "Several described friction between institutional norms and transformative work — DC culture's fight for influence undercuts change, government isn't built for risk-taking, and dissenting from majority policy views can feel isolating.",
+        "support_offered": "This group offers policy expertise, funding, and firsthand operational experience — Democracy Fund grantmaking, coalition leadership at the Alliance for Peacebuilding, and Joe Evans's military-informed peacebuilding training."
+      }
+    },
+    "International": {
+      "count": 9,
+      "next_steps_percent": 33,
+      "participants": [
+        {
+          "name": "Eva Armor",
+          "title_org": "Executive Director, Seeds of Peace"
+        },
+        {
+          "name": "Zoe Newcomb",
+          "title_org": "Humanity United"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "title_org": "Distinguished Scholar, Kroc Institute for International Peace Studies, University of Notre Dame"
+        },
+        {
+          "name": "Jiva Manske",
+          "title_org": "22nd Century Initiative (22ci)"
+        },
+        {
+          "name": "Angela Lederach",
+          "title_org": "Assistant Professor of Cultural Anthropology, Creighton University (Kroc Institute PhD, Colombia peacebuilding research)"
+        },
+        {
+          "name": "Bill Hartung",
+          "title_org": "Senior Research Fellow, Quincy Institute for Responsible Statecraft"
+        },
+        {
+          "name": "Joe Evans",
+          "title_org": "Coordinator, Villanova Peacebuilding Project (Center for Peace and Justice Studies / Catholic Relief Services); PhD in Theology, Villanova"
+        },
+        {
+          "name": "David Young",
+          "title_org": "Collective Trauma Integration"
+        },
+        {
+          "name": "Laura Webber",
+          "title_org": "Humanity United"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Eva Armor",
+          "detail": "\"We're losing the bigger floor... micro-pushes against the system\"; sees binary of those for/against elimination-assassination-abduction; without networks she'd be in collapse; wants more spaces for collective grief; \"Where connections exist, it's hard for violence to exist\"; core question: how do you sustain/scale care?"
+        },
+        {
+          "name": "Zoe Newcomb",
+          "detail": "Concerned the circulator approach could be picked up by philanthropy as the next \"sexy\" trend without going deep enough"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Most significant peacebuilding finding in 50 yrs (citing Andrew Mack/Human Security Report 2005): \"not one of the peacebuilding and conflict prevention programs on its own had much impact... taken together, their effect has been profound\"; introduced \"Bounce Back (resilience), Push Back (resistance), Have Our Backs (accompaniment)\" framework; burnout caused by the container of care missing in the work, not the work itself; true currency is trust and care"
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "22ci grew from the global nonviolent movement; launched a training program on making PV backfire after the 2024 assassination attempt; HOPE (with Hardy Merriman, Nadine Block, Scott Nakagawa, Maria Stephan) trains a cross-section of ~16 orgs; \"the work that's most effective is at the local level\"; scenario planning for Oct 2025–Jan 2026 election period"
+        },
+        {
+          "name": "Angela Lederach",
+          "detail": "Youth Peace Provokers movement (Colombia) centers human-environmental relations, intergenerational relationships, and joy in peacebuilding; \"to know the river is to know our history\"; describes river-mapping and an \"ecological beauty pageant\" as reclaiming reconciliation rituals; finds it harder to organize in the US than in Colombia"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Sees younger colleagues (Palestine rights, Sunrise/climate movements) as more intersectional but underpaid/unsupported in the nonprofit world; his role is encourager, not knowledge-holder; \"the trillion-dollar war machine\" persists via troops, drones, and domestic gun violence; belief change requires personal connection, not just data; ideology (American-exceptionalism mythology) must be confronted alongside money"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Career arc: Kosovo (peacekeeping) → Afghanistan → Iraq (combat, undiagnosed PTSD) → Pakistan/Pentagon policy advisor; realized \"the more people we shoot, the more enemies we create\"; took a markedly less aggressive approach as an infantry commander, became one of the most peaceful regions in Afghanistan; rejects binary \"which side are you on\" framing; within Catholic peacebuilding, nonviolence and just-war traditions aren't as far apart as assumed"
+        },
+        {
+          "name": "David Young",
+          "detail": "Notes are sparse: collective trauma healing work is being done in China/Taiwan but conducted in Mandarin, limiting circulation; asking what comes after a recent \"TWT\" (training of trainers)"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Uses \"coral reef\"/edge metaphor — circulators should find and connect \"edge dwellers\" who don't fit dominant frames (between neuroscience and peacebuilding, activists who are also healers); trauma-healing frame is incomplete because \"healedness\" may not exist; doing trauma healing in active-trauma settings can be unwise; her current work is more directed/circumscribed than she'd like"
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Eva Armor",
+          "detail": "Isolation/surveillance makes it hard to be loud; worry about people falling into despair; \"is what I'm doing enough?\""
+        },
+        {
+          "name": "Zoe Newcomb",
+          "detail": "Worry about diluting the circulator concept as it scales"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Discomfort with \"wellbeing\" language; tension of working inside elite/global institutions (UN) that may be sidelined"
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "\"Launched quicker than we were ready for\"; feels stuck doing \"small ball\" work relative to the 50-year scale of reconciliation needed"
+        },
+        {
+          "name": "Angela Lederach",
+          "detail": "Fragmentation of intergenerational movement continuity as core organizers age into professional tracks; harder to organize/move physically due to ongoing clan violence in Colombia"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Younger organizers lack paid opportunities in the traditional nonprofit sector"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Feels isolated when advising against majority Pentagon opinion (e.g., opposed drone strikes in tribal Pakistan)"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Her role currently has less autonomy/emergence than she wants; structural lack of integration between professionalized and non-professionalized healing/PB work"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Eva Armor",
+          "detail": "Cultivates care among young Israelis/Palestinians, Indians/Pakistanis via Seeds of Peace camps"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Mentorship/accompaniment to circulators; Unyoke retreats for peacebuilder burnout"
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "Training program to make PV backfire; connecting social justice, electoral, and mobilization orgs"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Mentorship/encouragement to younger anti-militarism organizers"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "First-hand military/policy perspective informing peacebuilding training"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Hosted \"edge dweller\" dinners at Boston/Oxford trauma conferences and Cape Town Global Mental Health summit"
+        }
+      ],
+      "summaries": {
+        "key_points": "International-facing interviewees bring global peacebuilding frameworks into the US conversation — JPL's spider-group circulation model from the Middle East and Colombia, intergenerational peacebuilding in Colombia, and cross-border collective trauma healing.",
+        "struggles": "Struggles include the difficulty of translating international models to the US context, language and cultural barriers limiting the reach of trauma-healing work, and burnout from working inside elite global institutions.",
+        "support_offered": "This group offers deep international networks and mentorship, most notably JPL's framework and contacts for circulators and Zoe Newcomb's cross-border circulator experiment with Laura Webber."
+      }
+    },
+    "Local Resilience": {
+      "count": 11,
+      "next_steps_percent": 73,
+      "participants": [
+        {
+          "name": "Rich Feldman",
+          "title_org": "Boggs Center to Nurture Community Leadership"
+        },
+        {
+          "name": "Drew Serres",
+          "title_org": "Executive Director, Network Delaware"
+        },
+        {
+          "name": "Angela Henderson",
+          "title_org": "Formerly Southerners on New Ground (SONG); now People's Network for Land and Liberation"
+        },
+        {
+          "name": "Joe Worthy",
+          "title_org": "Strategic Nonviolence Academy"
+        },
+        {
+          "name": "Elder Kathy Sanchez",
+          "title_org": "Tewa Women United"
+        },
+        {
+          "name": "Nichole Argo",
+          "title_org": "TogetherUp (formerly OverZero)"
+        },
+        {
+          "name": "Joe Bubman",
+          "title_org": "Founder, Urban Rural Action"
+        },
+        {
+          "name": "Kim Warnick",
+          "title_org": "Culture Lab Senior Fellow, Western States Center"
+        },
+        {
+          "name": "Kazu Haga",
+          "title_org": "Fierce Vulnerability Network / Kinvene"
+        },
+        {
+          "name": "Maria Perez",
+          "title_org": "Founder, Democracy Rising"
+        },
+        {
+          "name": "Jasmine Ramsey",
+          "title_org": "Beyond Conflict"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Rich Feldman",
+          "detail": "\"Our work needs to be done more intentionally now than ever before\"; growing consciousness from painful history; need vision/practices for \"liberated zones,\" not just narrative change; \"we don't yet know what creating safe communities actually looks like\"; healing has to include facing our own internal violence, not just Trump"
+        },
+        {
+          "name": "Drew Serres",
+          "detail": "Sees his PV-prevention role as base-building rapid response networks (trainers, lawyers, key roles ready); was siloed in Delaware, now reaching to other states, esp. right-wing gerrymandered ones; MN has strong RR infrastructure but is \"very white-led,\" not inclusive enough; asks how to build joy into this work"
+        },
+        {
+          "name": "Angela Henderson",
+          "detail": "Left SONG to pursue \"community control\"/solidarity economy, solar radio for cross-wall/prison solidarity; sees PV broadly: food violence, economic violence, COVID, prison deaths, war; taking a pause to focus on deeper healing and re-skilling after \"movement heartbreak\""
+        },
+        {
+          "name": "Joe Worthy",
+          "detail": "PV starts hyperlocal, person-to-person, not militia-to-militia, and is often not physical; strategic nonviolence avoids \"hardening\" opponents into martyrs; solution to PV needs to be culturally relevant, no side can play victim; believes healing must sit alongside direct action and policy; developing a \"movement readiness tool\""
+        },
+        {
+          "name": "Elder Kathy Sanchez",
+          "detail": "Developed \"trauma healing rocks\" methodology — bagged rocks passed down generations represent unspoken trauma, healing starts with younger generations opening theirs first; culture of violence extracts spiritual/natural energy; healing uses water, herbs, candles, communal ritual, dreamwork; boarding schools/colonization as key trauma source"
+        },
+        {
+          "name": "Nichole Argo",
+          "detail": "No longer at OverZero, now focused on TogetherUp's financial security amid funding cuts; OverZero/Search for Common Ground/Carter Center pioneered \"resilience\" framing, now a real apparatus with loose state-level resilience networks; developing the \"Belonging Barometer\" as an upstream PV-prevention tool"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Runs Uniting for Action Local Hubs, skills-building, and a Conservative Leaders Program (34 leaders launched in Phoenix); theory of change is intergroup contact theory; sees an \"optimal level of coordination\" beyond which there are diminishing returns; forming a Left-of-Center leaders program too"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Culture Lab (since 2019) trains independent venues (bars, third places) to protect themselves as pro-democracy spaces and resist \"obeying in advance\"; sees entertainment industry as an underused organizing force; \"hardened networks\" in pro-democracy space make it hard for newcomers to find inroads; core funder-favored orgs (Horizons, 22ci, OverZero) keep getting pollinated over and over"
+        },
+        {
+          "name": "Kazu Haga",
+          "detail": "Mission is to bridge healing work with civil-resistance work; proposes 3-month, 50/50 direct-action/healing training experiment; wants to test \"fierce vulnerability\" principles in a public action inspired by Jewish Voice for Peace and Standing Rock ceremonial actions"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Runs 2-year cohorts of 15 women-of-color civic leaders (elected officials, agitators, bureaucrats) working toward a 50-year manifesto; started after leaving male-dominated democracy-reform think tanks in 2022; measures impact partly by \"4 people have left their husbands\"; goal of 50-state presence (currently 30); dream is a shared land/refuge in New Mexico and funding to spend more time circulating"
+        },
+        {
+          "name": "Jasmine Ramsey",
+          "detail": "Works with young people creating democracy; interested in the intersection of media/art influence and democratic participation. Notes are minimal (brief mention in weekly circulator-call summary)."
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Rich Feldman",
+          "detail": "Detroit lacks sufficient leadership; the field doesn't have the practices/programs in place yet at different levels"
+        },
+        {
+          "name": "Drew Serres",
+          "detail": "Was very \"heads down\" and siloed in Delaware; MN rapid-response network is not cross-class/cross-race enough"
+        },
+        {
+          "name": "Angela Henderson",
+          "detail": "Disconnected from everyday organizing right now; working through movement heartbreak from leaving SONG"
+        },
+        {
+          "name": "Joe Worthy",
+          "detail": "Difficulty getting \"heart\"/healing work taken seriously by base-builders/strategists"
+        },
+        {
+          "name": "Elder Kathy Sanchez",
+          "detail": "Generational trauma passed down through community silence and cultural shaming"
+        },
+        {
+          "name": "Nichole Argo",
+          "detail": "Financial insecurity of nonprofit under funding cuts; \"terrifying\" uncertainty"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Wants a narrower, more concrete peer-practitioner community; feels somewhat isolated doing this work solo among org leaders"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Funding sources/fundraising strategy still being worked out; skepticism about whether \"weaving\" projects like this one are actually different"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Funding for 3rd cohort not yet secured; late-stage capitalism/philanthropy constrains the feminist-economy vision she wants to build"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Rich Feldman",
+          "detail": "Mentorship/reflection space (30-min calls) for people wrestling with these questions"
+        },
+        {
+          "name": "Drew Serres",
+          "detail": "Organizing/convening base of progressive campaigns and electoral politics across Delaware"
+        },
+        {
+          "name": "Angela Henderson",
+          "detail": "BIPOC/queer southern organizing model; peacebuilding/mediation for internal org conflict"
+        },
+        {
+          "name": "Joe Worthy",
+          "detail": "Strategic Nonviolence Academy trainings"
+        },
+        {
+          "name": "Elder Kathy Sanchez",
+          "detail": "Trauma healing rocks methodology, centering-table healing sessions"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Local hubs training \"uniters\"; skills-building for disinformation/community safety; leader-network bridging"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Network/de-escalation/safety-planning training for cultural venues"
+        },
+        {
+          "name": "Kazu Haga",
+          "detail": "Fierce Vulnerability trainings/ceremony-based direct action"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Convenes cohorts; popular-education annual gathering; Collaborative Governance Learning Lab (funded by Tom Glaisyer)"
+        }
+      ],
+      "summaries": {
+        "key_points": "Local resilience work centers on hyperlocal, person-to-person organizing — rapid response networks, cultural-venue safety training, trauma-healing practices, and base-building — with an emphasis that PV prevention has to start at the community level.",
+        "struggles": "Several flagged that local infrastructure is uneven and often not diverse or inclusive enough, and that movement heartbreak and burnout are common after leaving frontline organizing.",
+        "support_offered": "This tag offers hands-on, practical support — rapid-response training, trauma-healing rock methodology, cultural-venue safety planning, and mentorship or reflection space for other organizers."
+      }
+    },
+    "Narrative": {
+      "count": 8,
+      "next_steps_percent": 75,
+      "participants": [
+        {
+          "name": "Eunice Lin Nichols",
+          "title_org": "Co-Executive Director, CoGenerate"
+        },
+        {
+          "name": "Rich Feldman",
+          "title_org": "Boggs Center to Nurture Community Leadership"
+        },
+        {
+          "name": "Angela Henderson",
+          "title_org": "Formerly Southerners on New Ground (SONG); now People's Network for Land and Liberation"
+        },
+        {
+          "name": "Joe Worthy",
+          "title_org": "Strategic Nonviolence Academy"
+        },
+        {
+          "name": "Kim Warnick",
+          "title_org": "Culture Lab Senior Fellow, Western States Center"
+        },
+        {
+          "name": "Kazu Haga",
+          "title_org": "Fierce Vulnerability Network / Kinvene"
+        },
+        {
+          "name": "Evan & Katie",
+          "title_org": "Dot Connector Studio (fiscal sponsor + futures consultancy)"
+        },
+        {
+          "name": "Jasmine Ramsey",
+          "title_org": "Beyond Conflict"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Eunice Lin Nichols",
+          "detail": "CoGenerate focused on how to help young and old come together to do good; \"'Civics' is a partisan word now!!\""
+        },
+        {
+          "name": "Rich Feldman",
+          "detail": "\"Our work needs to be done more intentionally now than ever before\"; growing consciousness from painful history; need vision/practices for \"liberated zones,\" not just narrative change; \"we don't yet know what creating safe communities actually looks like\"; healing has to include facing our own internal violence, not just Trump"
+        },
+        {
+          "name": "Angela Henderson",
+          "detail": "Left SONG to pursue \"community control\"/solidarity economy, solar radio for cross-wall/prison solidarity; sees PV broadly: food violence, economic violence, COVID, prison deaths, war; taking a pause to focus on deeper healing and re-skilling after \"movement heartbreak\""
+        },
+        {
+          "name": "Joe Worthy",
+          "detail": "PV starts hyperlocal, person-to-person, not militia-to-militia, and is often not physical; strategic nonviolence avoids \"hardening\" opponents into martyrs; solution to PV needs to be culturally relevant, no side can play victim; believes healing must sit alongside direct action and policy; developing a \"movement readiness tool\""
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Culture Lab (since 2019) trains independent venues (bars, third places) to protect themselves as pro-democracy spaces and resist \"obeying in advance\"; sees entertainment industry as an underused organizing force; \"hardened networks\" in pro-democracy space make it hard for newcomers to find inroads; core funder-favored orgs (Horizons, 22ci, OverZero) keep getting pollinated over and over"
+        },
+        {
+          "name": "Kazu Haga",
+          "detail": "Mission is to bridge healing work with civil-resistance work; proposes 3-month, 50/50 direct-action/healing training experiment; wants to test \"fierce vulnerability\" principles in a public action inspired by Jewish Voice for Peace and Standing Rock ceremonial actions"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Institute for Restoration and Imagination pillars: healing (community grief circles), belonging, pluralism (futures interventions for marginalized groups); Detroit Care Lab work with 25 nonprofits (funded by McGregor Fund) doing futurism around social services; trauma & futurism intersection acknowledged as important but not their specialty; distinguish \"foresight\" (hard data) from \"radical imagination\" (marginalized groups reauthoring futures)"
+        },
+        {
+          "name": "Jasmine Ramsey",
+          "detail": "Works with young people creating democracy; interested in the intersection of media/art influence and democratic participation. Notes are minimal (brief mention in weekly circulator-call summary)."
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Rich Feldman",
+          "detail": "Detroit lacks sufficient leadership; the field doesn't have the practices/programs in place yet at different levels"
+        },
+        {
+          "name": "Angela Henderson",
+          "detail": "Disconnected from everyday organizing right now; working through movement heartbreak from leaving SONG"
+        },
+        {
+          "name": "Joe Worthy",
+          "detail": "Difficulty getting \"heart\"/healing work taken seriously by base-builders/strategists"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Funding sources/fundraising strategy still being worked out; skepticism about whether \"weaving\" projects like this one are actually different"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Difficulty engaging men in futuring work in Philly; trauma-and-futurism work is outside their core expertise"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Rich Feldman",
+          "detail": "Mentorship/reflection space (30-min calls) for people wrestling with these questions"
+        },
+        {
+          "name": "Angela Henderson",
+          "detail": "BIPOC/queer southern organizing model; peacebuilding/mediation for internal org conflict"
+        },
+        {
+          "name": "Joe Worthy",
+          "detail": "Strategic Nonviolence Academy trainings"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Network/de-escalation/safety-planning training for cultural venues"
+        },
+        {
+          "name": "Kazu Haga",
+          "detail": "Fierce Vulnerability trainings/ceremony-based direct action"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Futures/foresight consulting for nonprofits and community groups"
+        }
+      ],
+      "summaries": {
+        "key_points": "Narrative-focused interviewees see storytelling and cultural framing as core to prevention work, from reframing \"civics\" language to using cultural venues, art, and ceremony to shift how communities relate to conflict and violence.",
+        "struggles": "Common struggles include getting healing-oriented narrative work taken seriously by base-builders and strategists, and skepticism about whether \"weaving\" projects like this one are genuinely different from past efforts.",
+        "support_offered": "This group offers narrative and cultural infrastructure — Kim Warnick's cultural-venue training network, Kazu Haga's healing-meets-direct-action framework, and Evan & Katie's futures/foresight consulting for community groups."
+      }
+    },
+    "Philanthropists": {
+      "count": 5,
+      "next_steps_percent": 80,
+      "participants": [
+        {
+          "name": "Zoe Newcomb",
+          "title_org": "Humanity United"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "title_org": "Democracy Fund"
+        },
+        {
+          "name": "Michelle Barsa",
+          "title_org": "Independent consultant; formerly Omidyar Network (belonging/AI), Beyond Conflict"
+        },
+        {
+          "name": "Ryan Greer",
+          "title_org": "BEDROCK"
+        },
+        {
+          "name": "Laura Webber",
+          "title_org": "Humanity United"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Zoe Newcomb",
+          "detail": "Concerned the circulator approach could be picked up by philanthropy as the next \"sexy\" trend without going deep enough"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "detail": "\"It's not about preventing PV, it's about preventing contagion of PV\"; \"civic safety\" is the new emerging term for PV, driven by ICE/state-sponsored vigilantism; allocated $3-4M to state-level capacity for responding to violence in-the-moment (vigils, interfaith op-eds) plus longer-run participatory democracy work"
+        },
+        {
+          "name": "Michelle Barsa",
+          "detail": "Co-led (with Tom Glaisyer, Melanie Greenberg) the Omidyar-funded effort that funded JPL to prevent PV contagion, incl. anti-trans/scapegoating carve-out; describes many overlapping \"big tents\" (progressive, center-left, center-right) needing connective tissue, not one master tent; US PV researchers (PRI) don't have bandwidth/relationships in red rural areas; philanthropy (e.g., Klarman's $10M) is \"nowhere near enough\"; US never meaningfully invested in civic infrastructure"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Founded BEDROCK after a nonprofit listening tour (300 stakeholders) found the field needs more money and less competition; 70 partners in 3 years; merged with PERIL (American University) for research; challenges: competition among orgs even on a single joint funder letter; capacity limited (2.5 staff); hopes funders will fund collectively rather than siloed"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Uses \"coral reef\"/edge metaphor — circulators should find and connect \"edge dwellers\" who don't fit dominant frames (between neuroscience and peacebuilding, activists who are also healers); trauma-healing frame is incomplete because \"healedness\" may not exist; doing trauma healing in active-trauma settings can be unwise; her current work is more directed/circumscribed than she'd like"
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Zoe Newcomb",
+          "detail": "Worry about diluting the circulator concept as it scales"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "detail": "Uncertainty about what \"success\" looks like for a half-built field"
+        },
+        {
+          "name": "Michelle Barsa",
+          "detail": "Nonprofit competition undermines collective funder pitches; PV/identity-based-violence networks haven't fully pivoted from election-violence focus to scapegoating of trans/immigrant communities"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Capacity-constrained (2.5 people); competition among field leaders undermines collective funder outreach; not yet in faith, veteran, or business ecosystems"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Her role currently has less autonomy/emergence than she wants; structural lack of integration between professionalized and non-professionalized healing/PB work"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Tom Glaisyer",
+          "detail": "Democracy Fund grantmaking for state-level PV response capacity and this circulator experiment"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Convening/coordination for 70 partner orgs; trusted-messenger empowerment; state resilience pilot in Michigan"
+        },
+        {
+          "name": "Laura Webber",
+          "detail": "Hosted \"edge dweller\" dinners at Boston/Oxford trauma conferences and Cape Town Global Mental Health summit"
+        }
+      ],
+      "summaries": {
+        "key_points": "Funders in this set are candid that philanthropy is fragmented and under-resourced relative to the scale of the problem, and are experimenting with resilience-network funding, state-level capacity grants, and cross-border circulator pilots.",
+        "struggles": "The main struggle raised is structural: philanthropy repeatedly funds the same few well-networked organizations, current funding is \"nowhere near enough,\" and there's real risk the circulator concept itself gets diluted as a philanthropic trend.",
+        "support_offered": "This group offers funding and strategic backing — Democracy Fund's state-capacity grants, Humanity United's circulator experiments, and Ryan Greer's collective-fundraising push across 70 partner organizations."
+      }
+    },
+    "Research": {
+      "count": 13,
+      "next_steps_percent": 31,
+      "participants": [
+        {
+          "name": "Edna Ishayik",
+          "title_org": "Consultant; formerly Office of the U.S. Surgeon General (social connection); National Conference on Citizenship / Foundation for Social Connection"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "title_org": "Distinguished Scholar, Kroc Institute for International Peace Studies, University of Notre Dame"
+        },
+        {
+          "name": "Nichole Argo",
+          "title_org": "TogetherUp (formerly OverZero)"
+        },
+        {
+          "name": "Michelle Barsa",
+          "title_org": "Independent consultant; formerly Omidyar Network (belonging/AI), Beyond Conflict"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "title_org": "Fellow, New America"
+        },
+        {
+          "name": "Ryan Greer",
+          "title_org": "BEDROCK"
+        },
+        {
+          "name": "Angela Lederach",
+          "title_org": "Assistant Professor of Cultural Anthropology, Creighton University (Kroc Institute PhD, Colombia peacebuilding research)"
+        },
+        {
+          "name": "Peter Quaranto",
+          "title_org": "Alliance for Peacebuilding (AFP)"
+        },
+        {
+          "name": "Bill Hartung",
+          "title_org": "Senior Research Fellow, Quincy Institute for Responsible Statecraft"
+        },
+        {
+          "name": "Joe Evans",
+          "title_org": "Coordinator, Villanova Peacebuilding Project (Center for Peace and Justice Studies / Catholic Relief Services); PhD in Theology, Villanova"
+        },
+        {
+          "name": "James Goen",
+          "title_org": "Formerly U.S. federal government (Deputy Secretary's office / China policy office); now independent — org unclear from public search"
+        },
+        {
+          "name": "Evan & Katie",
+          "title_org": "Dot Connector Studio (fiscal sponsor + futures consultancy)"
+        },
+        {
+          "name": "David Young",
+          "title_org": "Collective Trauma Integration"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Edna Ishayik",
+          "detail": "Discussed factors driving PV: information consumption, disengagement, political rhetoric; civic engagement could buffer against radicalizing online influences; philanthropic funding models lack coordination; positive sign: \"bell-to-bell\" school phone bans"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Most significant peacebuilding finding in 50 yrs (citing Andrew Mack/Human Security Report 2005): \"not one of the peacebuilding and conflict prevention programs on its own had much impact... taken together, their effect has been profound\"; introduced \"Bounce Back (resilience), Push Back (resistance), Have Our Backs (accompaniment)\" framework; burnout caused by the container of care missing in the work, not the work itself; true currency is trust and care"
+        },
+        {
+          "name": "Nichole Argo",
+          "detail": "No longer at OverZero, now focused on TogetherUp's financial security amid funding cuts; OverZero/Search for Common Ground/Carter Center pioneered \"resilience\" framing, now a real apparatus with loose state-level resilience networks; developing the \"Belonging Barometer\" as an upstream PV-prevention tool"
+        },
+        {
+          "name": "Michelle Barsa",
+          "detail": "Co-led (with Tom Glaisyer, Melanie Greenberg) the Omidyar-funded effort that funded JPL to prevent PV contagion, incl. anti-trans/scapegoating carve-out; describes many overlapping \"big tents\" (progressive, center-left, center-right) needing connective tissue, not one master tent; US PV researchers (PRI) don't have bandwidth/relationships in red rural areas; philanthropy (e.g., Klarman's $10M) is \"nowhere near enough\"; US never meaningfully invested in civic infrastructure"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "Goal: connect participatory democracy with domestic peacebuilding to prevent/respond to PV, not just absorb it; explores whether citizen assemblies could be a cross-divide PV-prevention methodology; notes clusters of civic-infrastructure innovation in the Pacific NW; \"not a lot of people talking about PV in her space\""
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Founded BEDROCK after a nonprofit listening tour (300 stakeholders) found the field needs more money and less competition; 70 partners in 3 years; merged with PERIL (American University) for research; challenges: competition among orgs even on a single joint funder letter; capacity limited (2.5 staff); hopes funders will fund collectively rather than siloed"
+        },
+        {
+          "name": "Angela Lederach",
+          "detail": "Youth Peace Provokers movement (Colombia) centers human-environmental relations, intergenerational relationships, and joy in peacebuilding; \"to know the river is to know our history\"; describes river-mapping and an \"ecological beauty pageant\" as reclaiming reconciliation rituals; finds it harder to organize in the US than in Colombia"
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "3 priorities: widen the language/aperture beyond intra-state armed conflict; renew grassroots mobilization (peacebuilding became too elite/technocratic); articulate transformative alternative futures; interested in a Ghana-style National Peace Architecture model for the US; leads AFP's Future of Peace and Security Coalition (1-5 yr report due end of year)"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Sees younger colleagues (Palestine rights, Sunrise/climate movements) as more intersectional but underpaid/unsupported in the nonprofit world; his role is encourager, not knowledge-holder; \"the trillion-dollar war machine\" persists via troops, drones, and domestic gun violence; belief change requires personal connection, not just data; ideology (American-exceptionalism mythology) must be confronted alongside money"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Career arc: Kosovo (peacekeeping) → Afghanistan → Iraq (combat, undiagnosed PTSD) → Pakistan/Pentagon policy advisor; realized \"the more people we shoot, the more enemies we create\"; took a markedly less aggressive approach as an infantry commander, became one of the most peaceful regions in Afghanistan; rejects binary \"which side are you on\" framing; within Catholic peacebuilding, nonviolence and just-war traditions aren't as far apart as assumed"
+        },
+        {
+          "name": "James Goen",
+          "detail": "Resigned over concern that U.S. is using the military to protect economic interests rather than democratic rule of law, approaching China from fear; sees the need for \"interstitionaries\" in US/China relations despite not being a China or peacebuilding expert; own healing journey (cPTSD, early attachment trauma) reframed as generational healing; discovered Interstitia through Sam Pressler"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Institute for Restoration and Imagination pillars: healing (community grief circles), belonging, pluralism (futures interventions for marginalized groups); Detroit Care Lab work with 25 nonprofits (funded by McGregor Fund) doing futurism around social services; trauma & futurism intersection acknowledged as important but not their specialty; distinguish \"foresight\" (hard data) from \"radical imagination\" (marginalized groups reauthoring futures)"
+        },
+        {
+          "name": "David Young",
+          "detail": "Notes are sparse: collective trauma healing work is being done in China/Taiwan but conducted in Mandarin, limiting circulation; asking what comes after a recent \"TWT\" (training of trainers)"
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Edna Ishayik",
+          "detail": "Frustration with inefficiency/lack of collaboration within philanthropy funding civic engagement (2016-2020 era)"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Discomfort with \"wellbeing\" language; tension of working inside elite/global institutions (UN) that may be sidelined"
+        },
+        {
+          "name": "Nichole Argo",
+          "detail": "Financial insecurity of nonprofit under funding cuts; \"terrifying\" uncertainty"
+        },
+        {
+          "name": "Michelle Barsa",
+          "detail": "Nonprofit competition undermines collective funder pitches; PV/identity-based-violence networks haven't fully pivoted from election-violence focus to scapegoating of trans/immigrant communities"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "PV is not yet a central topic in the participatory-democracy field"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Capacity-constrained (2.5 people); competition among field leaders undermines collective funder outreach; not yet in faith, veteran, or business ecosystems"
+        },
+        {
+          "name": "Angela Lederach",
+          "detail": "Fragmentation of intergenerational movement continuity as core organizers age into professional tracks; harder to organize/move physically due to ongoing clan violence in Colombia"
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "DC culture's fight for influence undercuts transformation; institutions not built for risk-taking; tension between building a big tent and confronting harm directly"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Younger organizers lack paid opportunities in the traditional nonprofit sector"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Feels isolated when advising against majority Pentagon opinion (e.g., opposed drone strikes in tribal Pakistan)"
+        },
+        {
+          "name": "James Goen",
+          "detail": "Personal cPTSD and early attachment trauma; ambivalence about next career steps after resigning from government"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Difficulty engaging men in futuring work in Philly; trauma-and-futurism work is outside their core expertise"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Mentorship/accompaniment to circulators; Unyoke retreats for peacebuilder burnout"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "Deep network in participatory democracy field (\"knows everyone\")"
+        },
+        {
+          "name": "Ryan Greer",
+          "detail": "Convening/coordination for 70 partner orgs; trusted-messenger empowerment; state resilience pilot in Michigan"
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "Convening/steering group work on Future of Peace and Security"
+        },
+        {
+          "name": "Bill Hartung",
+          "detail": "Mentorship/encouragement to younger anti-militarism organizers"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "First-hand military/policy perspective informing peacebuilding training"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Futures/foresight consulting for nonprofits and community groups"
+        }
+      ],
+      "summaries": {
+        "key_points": "Researchers bring evidence and frameworks to the conversation — from Andrew Mack's Human Security Report finding that peacebuilding programs matter more in aggregate than individually, to the Belonging Barometer, to studies of PV contagion and intergenerational trauma.",
+        "struggles": "A recurring struggle is that research capacity and relationships don't reach the communities that need them most, and that some researchers feel isolated advising against institutional consensus.",
+        "support_offered": "This group offers frameworks, data, and mentorship — JPL's Bounce Back/Push Back/Have Our Backs model, Nichole Argo's Belonging Barometer, and Angela Lederach's intergenerational peacebuilding research."
+      }
+    },
+    "Strategy": {
+      "count": 10,
+      "next_steps_percent": 40,
+      "participants": [
+        {
+          "name": "Rich Feldman",
+          "title_org": "Boggs Center to Nurture Community Leadership"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "title_org": "Distinguished Scholar, Kroc Institute for International Peace Studies, University of Notre Dame"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "title_org": "Democracy Fund"
+        },
+        {
+          "name": "Julia Roig",
+          "title_org": "Horizons Project (founder)"
+        },
+        {
+          "name": "Michelle Barsa",
+          "title_org": "Independent consultant; formerly Omidyar Network (belonging/AI), Beyond Conflict"
+        },
+        {
+          "name": "Scott Nine",
+          "title_org": "Collective Acceleration"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "title_org": "Fellow, New America"
+        },
+        {
+          "name": "Peter Quaranto",
+          "title_org": "Alliance for Peacebuilding (AFP)"
+        },
+        {
+          "name": "Maria Perez",
+          "title_org": "Founder, Democracy Rising"
+        },
+        {
+          "name": "Evan & Katie",
+          "title_org": "Dot Connector Studio (fiscal sponsor + futures consultancy)"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Rich Feldman",
+          "detail": "\"Our work needs to be done more intentionally now than ever before\"; growing consciousness from painful history; need vision/practices for \"liberated zones,\" not just narrative change; \"we don't yet know what creating safe communities actually looks like\"; healing has to include facing our own internal violence, not just Trump"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Most significant peacebuilding finding in 50 yrs (citing Andrew Mack/Human Security Report 2005): \"not one of the peacebuilding and conflict prevention programs on its own had much impact... taken together, their effect has been profound\"; introduced \"Bounce Back (resilience), Push Back (resistance), Have Our Backs (accompaniment)\" framework; burnout caused by the container of care missing in the work, not the work itself; true currency is trust and care"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "detail": "\"It's not about preventing PV, it's about preventing contagion of PV\"; \"civic safety\" is the new emerging term for PV, driven by ICE/state-sponsored vigilantism; allocated $3-4M to state-level capacity for responding to violence in-the-moment (vigils, interfaith op-eds) plus longer-run participatory democracy work"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Horizons formed 2022 amid rise of authoritarianism; built PV-backfire curriculum with 22ci and Hardy Merriman's guide; \"accompaniment\" = being available, catalyzing not owning; philanthropy is \"a sick system\"; core networks (OverZero, Horizons, 22ci) keep getting funded/tapped repeatedly — \"the big tent doesn't feel that big\""
+        },
+        {
+          "name": "Michelle Barsa",
+          "detail": "Co-led (with Tom Glaisyer, Melanie Greenberg) the Omidyar-funded effort that funded JPL to prevent PV contagion, incl. anti-trans/scapegoating carve-out; describes many overlapping \"big tents\" (progressive, center-left, center-right) needing connective tissue, not one master tent; US PV researchers (PRI) don't have bandwidth/relationships in red rural areas; philanthropy (e.g., Klarman's $10M) is \"nowhere near enough\"; US never meaningfully invested in civic infrastructure"
+        },
+        {
+          "name": "Scott Nine",
+          "detail": "Circulation is powerful when embodied physically (martial arts parallel, per Norma Wong); PV \"has been unfolding for decades\"; \"the left has lost humanity for people\"; strategy needs different approaches for different timescales (mitigation, groundwork, generational thriving)"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "Goal: connect participatory democracy with domestic peacebuilding to prevent/respond to PV, not just absorb it; explores whether citizen assemblies could be a cross-divide PV-prevention methodology; notes clusters of civic-infrastructure innovation in the Pacific NW; \"not a lot of people talking about PV in her space\""
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "3 priorities: widen the language/aperture beyond intra-state armed conflict; renew grassroots mobilization (peacebuilding became too elite/technocratic); articulate transformative alternative futures; interested in a Ghana-style National Peace Architecture model for the US; leads AFP's Future of Peace and Security Coalition (1-5 yr report due end of year)"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Runs 2-year cohorts of 15 women-of-color civic leaders (elected officials, agitators, bureaucrats) working toward a 50-year manifesto; started after leaving male-dominated democracy-reform think tanks in 2022; measures impact partly by \"4 people have left their husbands\"; goal of 50-state presence (currently 30); dream is a shared land/refuge in New Mexico and funding to spend more time circulating"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Institute for Restoration and Imagination pillars: healing (community grief circles), belonging, pluralism (futures interventions for marginalized groups); Detroit Care Lab work with 25 nonprofits (funded by McGregor Fund) doing futurism around social services; trauma & futurism intersection acknowledged as important but not their specialty; distinguish \"foresight\" (hard data) from \"radical imagination\" (marginalized groups reauthoring futures)"
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Rich Feldman",
+          "detail": "Detroit lacks sufficient leadership; the field doesn't have the practices/programs in place yet at different levels"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Discomfort with \"wellbeing\" language; tension of working inside elite/global institutions (UN) that may be sidelined"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "detail": "Uncertainty about what \"success\" looks like for a half-built field"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Philanthropy concentrates funding/attention on the same few well-networked orgs; hard to \"truly bring people in\""
+        },
+        {
+          "name": "Michelle Barsa",
+          "detail": "Nonprofit competition undermines collective funder pitches; PV/identity-based-violence networks haven't fully pivoted from election-violence focus to scapegoating of trans/immigrant communities"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "PV is not yet a central topic in the participatory-democracy field"
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "DC culture's fight for influence undercuts transformation; institutions not built for risk-taking; tension between building a big tent and confronting harm directly"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Funding for 3rd cohort not yet secured; late-stage capitalism/philanthropy constrains the feminist-economy vision she wants to build"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Difficulty engaging men in futuring work in Philly; trauma-and-futurism work is outside their core expertise"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Rich Feldman",
+          "detail": "Mentorship/reflection space (30-min calls) for people wrestling with these questions"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Mentorship/accompaniment to circulators; Unyoke retreats for peacebuilder burnout"
+        },
+        {
+          "name": "Tom Glaisyer",
+          "detail": "Democracy Fund grantmaking for state-level PV response capacity and this circulator experiment"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Trainings, curriculum on making PV backfire, crisis accompaniment, convening/weaving"
+        },
+        {
+          "name": "Hollie Russon Gilman",
+          "detail": "Deep network in participatory democracy field (\"knows everyone\")"
+        },
+        {
+          "name": "Peter Quaranto",
+          "detail": "Convening/steering group work on Future of Peace and Security"
+        },
+        {
+          "name": "Maria Perez",
+          "detail": "Convenes cohorts; popular-education annual gathering; Collaborative Governance Learning Lab (funded by Tom Glaisyer)"
+        },
+        {
+          "name": "Evan & Katie",
+          "detail": "Futures/foresight consulting for nonprofits and community groups"
+        }
+      ],
+      "summaries": {
+        "key_points": "Strategic thinkers emphasize that PV prevention needs different approaches across different timescales — from immediate crisis accompaniment to generational-scale movement building — and repeatedly note the field lacks one big tent, just many overlapping ones.",
+        "struggles": "Struggles include feeling stuck doing incremental \"small ball\" work relative to the scale of change needed, and uncertainty about what success even looks like for a still-forming field.",
+        "support_offered": "This group offers strategic frameworks and curricula — Julia Roig's PV-backfire guide, Scott Nine's generational-timescale strategy work, and Maria Perez's spider/circulator self-model for civic leaders."
+      }
+    },
+    "Training": {
+      "count": 9,
+      "next_steps_percent": 56,
+      "participants": [
+        {
+          "name": "Joe Worthy",
+          "title_org": "Strategic Nonviolence Academy"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "title_org": "Distinguished Scholar, Kroc Institute for International Peace Studies, University of Notre Dame"
+        },
+        {
+          "name": "Julia Roig",
+          "title_org": "Horizons Project (founder)"
+        },
+        {
+          "name": "Jiva Manske",
+          "title_org": "22nd Century Initiative (22ci)"
+        },
+        {
+          "name": "Scott Nine",
+          "title_org": "Collective Acceleration"
+        },
+        {
+          "name": "Joe Bubman",
+          "title_org": "Founder, Urban Rural Action"
+        },
+        {
+          "name": "Kim Warnick",
+          "title_org": "Culture Lab Senior Fellow, Western States Center"
+        },
+        {
+          "name": "Kazu Haga",
+          "title_org": "Fierce Vulnerability Network / Kinvene"
+        },
+        {
+          "name": "Joe Evans",
+          "title_org": "Coordinator, Villanova Peacebuilding Project (Center for Peace and Justice Studies / Catholic Relief Services); PhD in Theology, Villanova"
+        }
+      ],
+      "key_points": [
+        {
+          "name": "Joe Worthy",
+          "detail": "PV starts hyperlocal, person-to-person, not militia-to-militia, and is often not physical; strategic nonviolence avoids \"hardening\" opponents into martyrs; solution to PV needs to be culturally relevant, no side can play victim; believes healing must sit alongside direct action and policy; developing a \"movement readiness tool\""
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Most significant peacebuilding finding in 50 yrs (citing Andrew Mack/Human Security Report 2005): \"not one of the peacebuilding and conflict prevention programs on its own had much impact... taken together, their effect has been profound\"; introduced \"Bounce Back (resilience), Push Back (resistance), Have Our Backs (accompaniment)\" framework; burnout caused by the container of care missing in the work, not the work itself; true currency is trust and care"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Horizons formed 2022 amid rise of authoritarianism; built PV-backfire curriculum with 22ci and Hardy Merriman's guide; \"accompaniment\" = being available, catalyzing not owning; philanthropy is \"a sick system\"; core networks (OverZero, Horizons, 22ci) keep getting funded/tapped repeatedly — \"the big tent doesn't feel that big\""
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "22ci grew from the global nonviolent movement; launched a training program on making PV backfire after the 2024 assassination attempt; HOPE (with Hardy Merriman, Nadine Block, Scott Nakagawa, Maria Stephan) trains a cross-section of ~16 orgs; \"the work that's most effective is at the local level\"; scenario planning for Oct 2025–Jan 2026 election period"
+        },
+        {
+          "name": "Scott Nine",
+          "detail": "Circulation is powerful when embodied physically (martial arts parallel, per Norma Wong); PV \"has been unfolding for decades\"; \"the left has lost humanity for people\"; strategy needs different approaches for different timescales (mitigation, groundwork, generational thriving)"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Runs Uniting for Action Local Hubs, skills-building, and a Conservative Leaders Program (34 leaders launched in Phoenix); theory of change is intergroup contact theory; sees an \"optimal level of coordination\" beyond which there are diminishing returns; forming a Left-of-Center leaders program too"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Culture Lab (since 2019) trains independent venues (bars, third places) to protect themselves as pro-democracy spaces and resist \"obeying in advance\"; sees entertainment industry as an underused organizing force; \"hardened networks\" in pro-democracy space make it hard for newcomers to find inroads; core funder-favored orgs (Horizons, 22ci, OverZero) keep getting pollinated over and over"
+        },
+        {
+          "name": "Kazu Haga",
+          "detail": "Mission is to bridge healing work with civil-resistance work; proposes 3-month, 50/50 direct-action/healing training experiment; wants to test \"fierce vulnerability\" principles in a public action inspired by Jewish Voice for Peace and Standing Rock ceremonial actions"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Career arc: Kosovo (peacekeeping) → Afghanistan → Iraq (combat, undiagnosed PTSD) → Pakistan/Pentagon policy advisor; realized \"the more people we shoot, the more enemies we create\"; took a markedly less aggressive approach as an infantry commander, became one of the most peaceful regions in Afghanistan; rejects binary \"which side are you on\" framing; within Catholic peacebuilding, nonviolence and just-war traditions aren't as far apart as assumed"
+        }
+      ],
+      "struggles": [
+        {
+          "name": "Joe Worthy",
+          "detail": "Difficulty getting \"heart\"/healing work taken seriously by base-builders/strategists"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Discomfort with \"wellbeing\" language; tension of working inside elite/global institutions (UN) that may be sidelined"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Philanthropy concentrates funding/attention on the same few well-networked orgs; hard to \"truly bring people in\""
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "\"Launched quicker than we were ready for\"; feels stuck doing \"small ball\" work relative to the 50-year scale of reconciliation needed"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Wants a narrower, more concrete peer-practitioner community; feels somewhat isolated doing this work solo among org leaders"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Funding sources/fundraising strategy still being worked out; skepticism about whether \"weaving\" projects like this one are actually different"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "Feels isolated when advising against majority Pentagon opinion (e.g., opposed drone strikes in tribal Pakistan)"
+        }
+      ],
+      "support_offered": [
+        {
+          "name": "Joe Worthy",
+          "detail": "Strategic Nonviolence Academy trainings"
+        },
+        {
+          "name": "John Paul Lederach (JPL)",
+          "detail": "Mentorship/accompaniment to circulators; Unyoke retreats for peacebuilder burnout"
+        },
+        {
+          "name": "Julia Roig",
+          "detail": "Trainings, curriculum on making PV backfire, crisis accompaniment, convening/weaving"
+        },
+        {
+          "name": "Jiva Manske",
+          "detail": "Training program to make PV backfire; connecting social justice, electoral, and mobilization orgs"
+        },
+        {
+          "name": "Joe Bubman",
+          "detail": "Local hubs training \"uniters\"; skills-building for disinformation/community safety; leader-network bridging"
+        },
+        {
+          "name": "Kim Warnick",
+          "detail": "Network/de-escalation/safety-planning training for cultural venues"
+        },
+        {
+          "name": "Kazu Haga",
+          "detail": "Fierce Vulnerability trainings/ceremony-based direct action"
+        },
+        {
+          "name": "Joe Evans",
+          "detail": "First-hand military/policy perspective informing peacebuilding training"
+        }
+      ],
+      "summaries": {
+        "key_points": "Training-focused interviewees run concrete programs — nonviolence academies, PV-backfire trainings, cultural-venue safety training, and healing-plus-direct-action experiments — aimed at building practical skills ahead of moments of crisis.",
+        "struggles": "The main struggle is getting healing- and care-oriented training taken as seriously as tactical/strategic training, plus capacity constraints on scaling programs quickly enough for the current moment.",
+        "support_offered": "This group offers direct skills-building — the Strategic Nonviolence Academy, 22ci's PV-backfire trainings, Kazu Haga's Fierce Vulnerability trainings, and Joe Bubman's Uniting for Action local hubs."
+      }
+    }
+  },
+  "overall": {
+    "key_points": "Across all 31 interviews, a consistent theme is that political violence prevention work is fragmented into many overlapping \"big tents\" rather than one connected field, and that circulation — linking people and resources across those tents — is itself seen as valuable, under-resourced work.",
+    "struggles": "The most common struggles are financial precarity and understaffing, competition among peer organizations for the same funders, and burnout or isolation from doing high-stakes relational work without enough institutional support.",
+    "support_offered": "Interviewees collectively offer a wide range of support — training curricula, crisis accompaniment, research frameworks, funding, and mentorship — much of it already flowing informally through relationships the circulator role is now trying to make visible and sustain.",
+    "support_percent": 23
+  },
+  "total_interviews": 31
+}
