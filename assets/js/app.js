@@ -481,7 +481,8 @@
     "Ecosystem Building": "Ecosystem bldg",
     "Government": "Gov't",
     "International": "Int'l",
-    "Local Resilience": "Local resil."
+    "Local Resilience": "Local resil.",
+    "Philanthropy": "Philanthr."
   };
 
   function drawChordDiagram(svgEl, activeTag) {
