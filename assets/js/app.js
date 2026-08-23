@@ -383,7 +383,7 @@
         '<div class="overlap-caption">' + esc(t.overlap_caption) + "</div>" +
       "</section>" +
       '<div class="blurred-field-bg">' +
-        '<svg id="bg-bubbles"></svg>' +
+        '<div class="blurred-bg-inner"><svg id="bg-bubbles"></svg></div>' +
         '<div class="columns-overlay">' +
           '<div class="tabs-row">' +
             tabBtn("key_points", t.columns.key_points) +
@@ -447,7 +447,10 @@
             ? '<button class="pill pill--ghost view-all-who">' + esc(t.view_all) + " " + tag.count + "</button>"
             : "") +
         "</div>" +
-        entries.map(function (e) { return '<div class="quote-box">“' + esc(e.detail) + '”</div>'; }).join("") +
+        '<button class="pill pill--ghost view-all-quotes">' + esc(t.view_all) + " " + entries.length + " quotes</button>" +
+        '<div class="quotes-wrap">' +
+          entries.map(function (e) { return '<div class="quote-box">“' + esc(e.detail) + '”</div>'; }).join("") +
+        "</div>" +
       "</div>"
     );
   }
@@ -459,6 +462,13 @@
         var ul = wrap.querySelector("ul");
         var tag = DATA.tags[tagName];
         ul.innerHTML = tag.participants.map(function (p) { return "<li>" + esc(p.title_org) + "</li>"; }).join("");
+        btn.remove();
+      });
+    });
+    Array.prototype.forEach.call(root.querySelectorAll(".view-all-quotes"), function (btn) {
+      btn.addEventListener("click", function () {
+        var col = btn.closest(".detail-column");
+        col.querySelector(".quotes-wrap").classList.add("open");
         btn.remove();
       });
     });
