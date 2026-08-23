@@ -9,11 +9,10 @@ home:
   stat_label: "interviews so far"
   insights_title: "Insights"
   insights_headline: "circulator conversation generated a followup step that supported participants' work"
-  insights_subtext_prefix: "Range across the 9 focus areas:"
   insights_subtext_suffix: ""
   focus_areas:
     title: "Focus areas"
-    body: "Interviewees are tagged by the areas they work in — click a bubble to see what people in that area are saying."
+    body: "Interviewees are tagged by the sector they work in — click a bubble to see what people in that area are saying."
   bubble_caption: "Bubble size = number of people interviewed (square-root scale)"
   cards:
     key_points:
@@ -21,7 +20,7 @@ home:
     struggles:
       title: "Struggles"
     support_offered:
-      title: "Support offered"
+      title: "Support Offered"
 
 tag_detail:
   back_label: "All tags"
@@ -31,7 +30,7 @@ tag_detail:
   overlap_caption: "Chord width = number of shared interviewees. Hover or tap an arc to highlight its overlaps."
   who_we_spoke_to: "Who we spoke to"
   view_all: "View all"
-  quotes_note: "Individual entries are shown without attribution."
+  quotes_note: "Individual entries are intentionally shown without attribution."
   columns:
     key_points: "Key points"
     struggles: "Struggles"

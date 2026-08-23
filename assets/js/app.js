@@ -160,7 +160,7 @@
           '<div class="insights-text">' +
             '<div class="insights-title">' + esc(COPY.home.insights_title) + "</div>" +
             '<div class="insights-headline">' + esc(COPY.home.insights_headline) + "</div>" +
-            '<span class="insights-subtext">' + esc((COPY.home.insights_subtext_prefix + " " + nextSteps.min + "–" + nextSteps.max + "% " + COPY.home.insights_subtext_suffix).trim()) + "</span>" +
+            '<span class="insights-subtext">' + esc(((COPY.home.insights_subtext_prefix || "") + " " + nextSteps.min + "–" + nextSteps.max + "% " + (COPY.home.insights_subtext_suffix || "")).trim()) + "</span>" +
           "</div>" +
         "</div>" +
         '<div class="focus-card">' +
