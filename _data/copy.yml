@@ -32,9 +32,9 @@ tag_detail:
   view_all: "View all"
   quotes_note: "Individual entries are intentionally shown without attribution."
   columns:
-    key_points: "Key points"
-    struggles: "Struggles"
-    support_offered: "Support offered"
+    key_points: "Key Learnings"
+    struggles: "Main Struggles"
+    support_offered: "Support Offered to the Ecosystem"
 
 topic_breakdown:
   back_label: "Home"

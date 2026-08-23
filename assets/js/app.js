@@ -447,9 +447,9 @@
             ? '<button class="pill pill--ghost view-all-who">' + esc(t.view_all) + " " + tag.count + "</button>"
             : "") +
         "</div>" +
-        '<button class="pill pill--ghost view-all-quotes">' + esc(t.view_all) + " " + entries.length + " quotes</button>" +
+        '<button class="pill pill--ghost view-all-quotes">' + esc(t.view_all) + " " + entries.length + " examples</button>" +
         '<div class="quotes-wrap">' +
-          entries.map(function (e) { return '<div class="quote-box">“' + esc(e.detail) + '”</div>'; }).join("") +
+          entries.map(function (e) { return '<div class="quote-box">' + esc(e.detail) + '</div>'; }).join("") +
         "</div>" +
       "</div>"
     );
@@ -668,7 +668,7 @@
       "</div>" +
       '<p class="synthesis">' + esc(tag.summaries[topicKey]) + "</p>" +
       '<div class="expanded-quote-grid">' +
-        entries.map(function (e) { return '<div class="quote-box">“' + esc(e.detail) + '”</div>'; }).join("") +
+        entries.map(function (e) { return '<div class="quote-box">' + esc(e.detail) + '</div>'; }).join("") +
       "</div>"
     );
   }
