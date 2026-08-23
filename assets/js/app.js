@@ -6,7 +6,7 @@
   var TAGS = Object.keys(DATA.tags);
 
   var TAG_COLORS = {
-    "Philanthropists": "#927BC2",
+    "Philanthropy": "#927BC2",
     "Local Resilience": "#26BB97",
     "Ecosystem Building": "#563B94",
     "Training": "#6AD0B4",
@@ -481,8 +481,7 @@
     "Ecosystem Building": "Ecosystem bldg",
     "Government": "Gov't",
     "International": "Int'l",
-    "Local Resilience": "Local resil.",
-    "Philanthropists": "Philanthr."
+    "Local Resilience": "Local resil."
   };
 
   function drawChordDiagram(svgEl, activeTag) {
