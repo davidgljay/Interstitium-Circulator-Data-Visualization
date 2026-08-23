@@ -254,6 +254,23 @@ button {
 }
 .bubble:active { cursor: grabbing; }
 .bubble:focus { outline: none; }
+.bubble-inner {
+  transform-box: fill-box;
+  transform-origin: center;
+  transition: transform 150ms ease;
+}
+.bubble:hover .bubble-inner {
+  transform: scale(1.07);
+}
+.bubble.wobble .bubble-inner {
+  animation: bubble-wobble 420ms ease;
+}
+@keyframes bubble-wobble {
+  0% { transform: scale(1) rotate(0); }
+  30% { transform: scale(1.1) rotate(-3deg); }
+  60% { transform: scale(0.96) rotate(3deg); }
+  100% { transform: scale(1) rotate(0); }
+}
 .bubble .bubble-circle {
   stroke: none;
 }

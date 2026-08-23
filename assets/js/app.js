@@ -260,14 +260,14 @@
       .attr("role", "button")
       .attr("aria-label", function (d) { return d.id + ", " + d.count + " interviews"; });
 
-    node.append("circle")
+    var inner = node.append("g").attr("class", "bubble-inner");
+
+    inner.append("circle")
       .attr("class", "bubble-circle")
       .attr("r", function (d) { return d.r; })
-      .attr("fill", function (d) { return d.color; })
-      .style("transform-box", "fill-box")
-      .style("transform-origin", "center");
+      .attr("fill", function (d) { return d.color; });
 
-    node.append("text")
+    inner.append("text")
       .attr("class", "bubble-label")
       .attr("y", -2)
       .attr("font-size", function (d) { return Math.max(10, Math.min(14, d.r / 3.4)) + "px"; })
@@ -275,7 +275,7 @@
       .call(wrapBubbleLabel)
       .call(fitBubbleLabel);
 
-    node.append("text")
+    inner.append("text")
       .attr("class", "bubble-count")
       .attr("y", function (d) { return d.r * 0.42; })
       .attr("font-size", function (d) { return Math.max(12, Math.min(20, d.r / 2.6)) + "px"; })
