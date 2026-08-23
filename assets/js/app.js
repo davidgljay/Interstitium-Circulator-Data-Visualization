@@ -150,11 +150,11 @@
         "<h1>" + esc(COPY.site.title) + "</h1>" +
         '<p class="standfirst">' + esc(COPY.site.standfirst) + "</p>" +
       "</header>" +
-      '<div class="stat-tile">' +
-        '<div class="stat-number">' + DATA.total_interviews + "</div>" +
-        '<div class="stat-label">' + esc(COPY.home.stat_label) + "</div>" +
-      "</div>" +
       '<div class="insight-focus-row">' +
+        '<div class="stat-tile">' +
+          '<div class="stat-number">' + DATA.total_interviews + "</div>" +
+          '<div class="stat-label">' + esc(COPY.home.stat_label) + "</div>" +
+        "</div>" +
         '<div class="insights-card">' +
           '<div class="insights-ring-wrap" id="insights-ring"><span class="insights-ring-pct">' + nextSteps.pct + "%</span></div>" +
           '<div class="insights-text">' +

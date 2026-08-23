@@ -2,7 +2,7 @@
 # Edit this file to change any wording without touching the JS/templates.
 
 site:
-  title: "Circulating to Address Political Violence"
+  title: "Circulating to Address Political Violence in the US"
   standfirst: ""
 
 home:
@@ -28,7 +28,7 @@ tag_detail:
   interviews_suffix: "interviews"
   overlap_title: "Overlap with other tags"
   overlap_subtitle: "Interviewees who identify with this tag also identify with…"
-  overlap_caption: "Chord width = number of shared interviewees. Hover or tap an arc to highlight its overlaps."
+  overlap_caption: ""
   who_we_spoke_to: "Who we spoke to"
   view_all: "View all"
   quotes_note: "Individual entries are intentionally shown without attribution."

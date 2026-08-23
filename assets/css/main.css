@@ -129,7 +129,7 @@ button {
 }
 
 .stat-tile {
-  display: inline-flex;
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
@@ -137,7 +137,7 @@ button {
   background: var(--teal);
   box-shadow: var(--card-shadow);
   padding: 18px 28px;
-  margin-bottom: 20px;
+  justify-self: start;
 }
 .stat-tile .stat-number {
   font-family: var(--font-display);
@@ -155,7 +155,7 @@ button {
 
 .insight-focus-row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: auto 1.4fr 1fr;
   gap: 16px;
   margin-bottom: 24px;
   align-items: stretch;
@@ -552,6 +552,9 @@ button {
 /* ---------- mobile ---------- */
 
 @media (max-width: 860px) {
+  .insight-focus-row { grid-template-columns: 1fr; }
+  .stat-tile { justify-self: stretch; }
+  .insights-card { flex-direction: column; align-items: flex-start; }
   .summary-cards { grid-template-columns: 1fr; }
   .columns-row { display: none; }
   .tag-grid { grid-template-columns: 1fr; }
@@ -592,10 +595,6 @@ button {
   }
 }
 
-@media (max-width: 560px) {
-  .insight-focus-row { grid-template-columns: 1fr; }
-  .insights-card { flex-direction: column; align-items: flex-start; }
-}
 
 @media (min-width: 861px) {
   .tabs-row { display: none; }
