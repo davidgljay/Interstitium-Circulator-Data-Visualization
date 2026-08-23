@@ -1,0 +1,16 @@
+title: "Circulating to address political violence"
+description: "An interactive visualization of 31 interviews from the political violence circulator project."
+baseurl: ""
+url: ""
+
+markdown: kramdown
+plugins: []
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - brief.md
+  - wireframes.pdf
+  - node_modules
