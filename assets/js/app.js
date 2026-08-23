@@ -10,10 +10,10 @@
     "Local Resilience": "#26BB97",
     "Ecosystem Building": "#563B94",
     "Training": "#6AD0B4",
-    "Research": "#2A304A",
+    "Research": "#4552B0",
     "Strategy": "#499CFF",
-    "Narrative": "#5C6481",
-    "International": "#6F789D",
+    "Narrative": "#7480D6",
+    "International": "#2F3B85",
     "Government": "#99C5FF"
   };
 
@@ -272,7 +272,8 @@
       .attr("y", -2)
       .attr("font-size", function (d) { return Math.max(10, Math.min(14, d.r / 3.4)) + "px"; })
       .text(function (d) { return tagLabel(d.id); })
-      .call(wrapBubbleLabel);
+      .call(wrapBubbleLabel)
+      .call(fitBubbleLabel);
 
     node.append("text")
       .attr("class", "bubble-count")
@@ -348,6 +349,20 @@
       var line2 = words.slice(mid).join(" ");
       el.append("tspan").attr("x", 0).attr("dy", "-0.15em").text(line1);
       el.append("tspan").attr("x", 0).attr("dy", "1.05em").text(line2);
+    });
+  }
+
+  // shrink any label (wrapped or not) that's still wider than its bubble
+  function fitBubbleLabel(textSel) {
+    textSel.each(function (d) {
+      var node = this;
+      var maxWidth = d.r * 1.7;
+      var bbox = node.getBBox();
+      if (bbox.width > maxWidth && bbox.width > 0) {
+        var current = parseFloat(node.getAttribute("font-size")) || 12;
+        var scaled = Math.max(8, current * (maxWidth / bbox.width));
+        node.setAttribute("font-size", scaled + "px");
+      }
     });
   }
 
